@@ -1,1 +1,8 @@
 # Grade-Calculator
+A Python program that calculates a student's average grade based on entered marks.
+
+## How to Use
+Run the program using Python 3:
+
+```bash
+python3 grade_calculator.py
