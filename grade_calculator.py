@@ -12,15 +12,15 @@ average = sum(marks) / len(marks)
 
 #determine grade
 if average >= 80:
-    grade = "A"
+    grade = 'A'
 elif average >= 70:
-    grade = "B"
+    grade = 'B'
 elif average >= 60:
-    grade = "C"
+    grade = 'C'
 elif average >= 50:
-    grade = "D"
+    grade = 'D'
 else:
-    grade = "F"
+    grade = 'F'
 
 #show results to 2 decimal places
 print(f"\n{student}'s average: {average:.2f}")
